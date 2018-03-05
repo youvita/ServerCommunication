@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">ConnectionSever</string>
+    <string name="message_sorry">Sorry</string>
+    <string name="message_no_internet_available">Your device currently has no active internet connection. Please try again when the internet connection is back.</string>
+    <string name="message_ok">Ok</string>
+</resources>
